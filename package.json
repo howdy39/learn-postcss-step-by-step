@@ -1,0 +1,27 @@
+{
+  "name": "learn-postcss-step-by-step",
+  "version": "1.0.0",
+  "description": "Step by Stepで始めるPostCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howdy39/learn-postcss-step-by-step.git"
+  },
+  "keywords": [
+    "gulp",
+    "postcss"
+  ],
+  "author": "Tatsuya Nakano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/howdy39/learn-postcss-step-by-step/issues"
+  },
+  "homepage": "https://github.com/howdy39/learn-postcss-step-by-step#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
