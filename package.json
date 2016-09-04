@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/howdy39/learn-postcss-step-by-step#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.1.1",
+    "postcss-custom-properties": "^5.0.1",
+    "postcss-nested": "^1.0.0"
   }
 }
