@@ -4,9 +4,11 @@ gulp.task('build', function () {
   var postcss = require('gulp-postcss');
   var customProperties = require('postcss-custom-properties');
   var nested = require('postcss-nested');
+  var Import = require('postcss-import');
 
   var preProcessors = [
-    customProperties
+    Import
+    , customProperties
     , nested
   ];
 
