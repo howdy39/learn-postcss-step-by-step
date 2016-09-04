@@ -22,8 +22,12 @@
   },
   "homepage": "https://github.com/howdy39/learn-postcss-step-by-step#readme",
   "devDependencies": {
+    "autoprefixer": "^6.4.1",
+    "cssnano": "^3.7.4",
     "gulp": "^3.9.1",
     "gulp-postcss": "^6.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
     "postcss-custom-properties": "^5.0.1",
     "postcss-import": "^8.1.2",
     "postcss-nested": "^1.0.0"
